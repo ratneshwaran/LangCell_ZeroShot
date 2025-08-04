@@ -1,0 +1,20 @@
+{
+  "Neutrophil": "Neutrophils are the most abundant white blood cells, playing a key role in acute inflammation and defense against infection.",
+  "Endocrine": "Endocrine cells in the pancreas secrete hormones such as insulin, glucagon, and somatostatin to regulate blood glucose levels.",
+  "Neuron": "Neurons are specialized cells that transmit electrical and chemical signals throughout the nervous system.",
+  "Adipocyte": "Adipocytes are fat-storing cells that accumulate energy in the form of triglycerides and regulate metabolic homeostasis.",
+  "Malignant": "Malignant cells are cancerous cells characterized by uncontrolled proliferation and tissue invasion, often associated with pancreatic ductal adenocarcinoma.",
+  "Epithelial": "Epithelial cells form the lining of pancreatic ducts and acini, and are involved in secretion, absorption, and structural integrity.",
+  "Myocyte": "Myocytes are contractile muscle cells responsible for generating force and movement in tissues.",
+  "Macrophage": "Macrophages are immune cells that engulf pathogens and debris, and coordinate the inflammatory response.",
+  "Dendritic": "Dendritic cells are antigen-presenting cells that link innate and adaptive immunity by activating T cells.",
+  "Endothelial": "Endothelial cells line the interior of blood and lymphatic vessels, maintaining vascular integrity and regulating exchange.",
+  "Fibroblast": "Fibroblasts are connective tissue cells that synthesize extracellular matrix and collagen to support tissue structure and repair.",
+  "T_cell": "T cells are lymphocytes that mediate adaptive immunity, including cytotoxic and helper functions against infected or abnormal cells.",
+  "Plasma": "Plasma cells are differentiated B lymphocytes that produce and secrete large volumes of antibodies.",
+  "Mast": "Mast cells are immune cells that release histamine and other mediators during allergic and inflammatory responses.",
+  "Schwann": "Schwann cells are glial cells that insulate peripheral nerve fibers by forming the myelin sheath.",
+  "Pericyte": "Pericytes are support cells that wrap around capillaries and small vessels, contributing to vascular stability and blood-brain barrier maintenance.",
+  "NK_cell": "Natural killer (NK) cells are cytotoxic lymphocytes that rapidly target virus-infected or tumor cells without prior sensitization.",
+  "B_cell": "B cells are lymphocytes responsible for antibody production and antigen presentation, essential for humoral immunity."
+}

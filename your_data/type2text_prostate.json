@@ -1,0 +1,11 @@
+{
+  "Malignant": "Malignant epithelial cells from prostate cancer, showing abnormal proliferation and cancer-specific gene expression patterns",
+  "Unassigned": "Cells with unclear cell type assignment, may represent rare cell types or cells in transition states",
+  "Epithelial": "Normal epithelial cells in prostate tissue, involved in prostate function and tissue structure",
+  "T_cell": "T lymphocytes in prostate tissue, involved in adaptive immune response and immune surveillance",
+  "Endothelial": "Endothelial cells lining blood vessels in prostate tissue, involved in vascular function and angiogenesis",
+  "Fibroblast": "Fibroblast cells in prostate tissue, involved in extracellular matrix production and tissue remodeling",
+  "Macrophage": "Macrophage immune cells in prostate tissue, involved in immune response and tissue homeostasis",
+  "Mast": "Mast cells in prostate tissue, involved in inflammatory responses and immune regulation",
+  "B_cell": "B lymphocytes in prostate tissue, involved in antibody production and humoral immune response"
+}

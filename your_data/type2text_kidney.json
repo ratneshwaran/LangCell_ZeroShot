@@ -1,0 +1,7 @@
+{
+  "Malignant": "Malignant epithelial cells from kidney cancer, showing abnormal proliferation and cancer-specific gene expression patterns",
+  "Fibroblast": "Fibroblast cells in kidney tissue, involved in extracellular matrix production and tissue remodeling",
+  "Endothelial": "Endothelial cells lining blood vessels in kidney tissue, involved in vascular function and angiogenesis",
+  "Macrophage": "Macrophage immune cells in kidney tissue, involved in immune response and tissue homeostasis",
+  "Epithelial": "Normal epithelial cells in kidney tissue, involved in kidney function and tissue structure"
+}

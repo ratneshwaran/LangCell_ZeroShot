@@ -1,0 +1,4 @@
+{
+  "malignant": "cancer status: malignant. A cell identified as cancerous or tumor-derived.",
+  "non-malignant": "cancer status: non-malignant. A cell identified as normal or not cancerous."
+}

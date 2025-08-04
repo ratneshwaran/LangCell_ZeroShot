@@ -1,0 +1,12 @@
+{
+  "Malignant": "Malignant epithelial cells from ovarian cancer, showing abnormal proliferation and cancer-specific gene expression patterns",
+  "Unassigned": "Cells with unclear cell type assignment, may represent rare cell types or cells in transition states",
+  "Epithelial": "Normal epithelial cells in ovarian tissue, involved in ovarian function and tissue structure",
+  "T_cell": "T lymphocytes in ovarian tissue, involved in adaptive immune response and immune surveillance",
+  "Endothelial": "Endothelial cells lining blood vessels in ovarian tissue, involved in vascular function and angiogenesis",
+  "Fibroblast": "Fibroblast cells in ovarian tissue, involved in extracellular matrix production and tissue remodeling",
+  "Macrophage": "Macrophage immune cells in ovarian tissue, involved in immune response and tissue homeostasis",
+  "Mast": "Mast cells in ovarian tissue, involved in inflammatory responses and immune regulation",
+  "B_cell": "B lymphocytes in ovarian tissue, involved in antibody production and humoral immune response",
+  "Myocyte": "Muscle cells in ovarian tissue, involved in tissue structure and contractility"
+}
