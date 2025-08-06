@@ -32,6 +32,7 @@ MANIFEST
 # Large data files and directories
 your_data/results_*.pt
 your_data/tokenized_dataset_*/
+your_data/tokenized_dataset/
 data/
 *.h5ad
 *.h5
