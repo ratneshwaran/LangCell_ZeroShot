@@ -1,0 +1,6 @@
+{
+    "G0_arrested": "Cells in a true quiescent state, arrested in the G0 phase. Non-dividing, metabolically reduced, and with lower biosynthetic activity. Can re-enter the cell cycle upon stimulation but typically remain in a long-lived or dormant-like state.",
+    "Slow_cycling": "Cells that divide infrequently and progress through the cell cycle at a reduced rate. Represent an intermediate state between quiescence and proliferation, often as an adaptation to conserve energy or avoid stress. Can revert to fast cycling under favorable conditions.",
+    "Fast_cycling": "Actively proliferating cells with short cell cycle durations. High metabolic and biosynthetic activity to support rapid division. More sensitive to cell-cycle-targeting therapies compared to slow- or non-cycling populations."
+  }
+  
